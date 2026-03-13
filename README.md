@@ -81,3 +81,8 @@ g++ -std=c++17 -O2 -o benchmark main.cpp
 ```
 
 Enter the number of test iterations when prompted.
+
+## Authors
+Stoica Antonia — quick sort, radix sort, main benchmark runner
+Filote Ionuț — input generators, heap sort, merge sort
+Pîrvulescu Gabriela — count sort, shell sort
